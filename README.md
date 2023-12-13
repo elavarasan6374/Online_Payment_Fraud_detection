@@ -1,5 +1,5 @@
 # Online_Payment_Fraud_detection
-The online payment fraud detection system's code and documentation are located in this Git repository. In order to improve the security of financial transactions and avert any losses, the initiative seeks to identify fraudulent activities in online payments. The technology employs machine learning algorithms to evaluate diverse attributes linked to transactions, enabling the differentiation of authentic and fraudulent activity.
+The online payment fraud detection system's code In order to improve the security of financial transactions and avert any losses, the initiative seeks to identify fraudulent activities in online payments. The technology employs machine learning algorithms to evaluate diverse attributes linked to transactions, enabling the differentiation of authentic and fraudulent activity.
 
 #Dataset: The research makes use of an extensive online payment dataset that includes details about balances, transaction types, amounts, and other relevant information.
 
